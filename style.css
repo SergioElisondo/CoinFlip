@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+}
+
+/* body { */
+    /* display: flex; */
+    /* this is the vertical alignment */
+    /* align-items: center;  */
+    /* this is the horizontal alignment */
+    /* justify-content: center;
+    flex-wrap: wrap;
+} */
+
+/* h1 {
+    border: 1px solid black;
+    display: flex;
+    flex-wrap: wrap;
+
+    align-content: space-between;
+}
+.buttonClass {
+    border: 1px solid black;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    align-content: space-between;
+} */
